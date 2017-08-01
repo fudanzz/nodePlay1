@@ -1,4 +1,3 @@
-#! /usr/bin/env node
 var program=require("commander");
 var prompt=require("prompt");
 
